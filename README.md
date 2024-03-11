@@ -7,7 +7,7 @@ I'm a system admin by day and tinkerer of tech by night
 ---
 
 ### My Blogs and Links 🔗
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/reprodev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/reprodev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://hashnode.com/@reprodev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/reprodev)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://reprodev.com)  
+[<img src='https://www.iconsdb.com/icons/preview/white/github-9-xxl.png' alt='github' height='40'>](https://github.com/reprodev)  [<img src='https://d2fltix0v2e0sb.cloudfront.net/dev-black.png' alt='dev' height='40'>](https://dev.to/reprodev)  [<img src='https://github.com/reprodev/reprodev/assets/8764255/3341101c-2f12-4b4b-a3e5-0bb366f30b7e' alt='dev' height='40'>](https://hashnode.com/@reprodev)  [<img src='https://www.iconsdb.com/icons/preview/white/reddit-xxl.png' alt='Reddit' height='40'>](https://www.reddit.com/user/reprodev)   [<img src='https://www.iconsdb.com/icons/preview/white/cloud-4-xxl.png' alt='website' height='40'>](https://reprodev.com)
 
 ---
 
